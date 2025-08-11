@@ -41,8 +41,7 @@ I tested four different approaches to see which one works best:
 ```
 ai-text-detection-nlp-project/
 ├── README.md                 # This file
-├── notebooks/
-│   └──  Main notebook
+├── notebook
 ├── requirements.txt          # Package versions
 └── .gitignore
 ```
