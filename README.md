@@ -4,6 +4,7 @@
 **Student:** Inderpreet Singh Parmar
 **Goal:** Compare different methods to detect whether text was written by AI or by humans.
 
+**VIDEO PRESENTATION LINK:-**  https://youtu.be/MChtQv5v2mw
 ## What I Did
 
 I tested four different approaches to see which one works best:
